@@ -22,7 +22,7 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 천지윤 | 최지원 | 이종현 | 최혜림 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://avatars.githubusercontent.com/u/70828192?v=4" alt="천지윤" width="100"> | <img src="https://avatars.githubusercontent.com/u/128473259?v=4" alt="최지원" width="100"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이종현" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="최혜림" width="150"> |
+| <img src="https://avatars.githubusercontent.com/u/70828192?v=4" alt="천지윤" width="150"> | <img src="https://avatars.githubusercontent.com/u/128473259?v=4" alt="최지원" width="150"> | <img src="https://avatars.githubusercontent.com/u/127838675?v=4" alt="이종현" width="150"> | <img src="https://avatars.githubusercontent.com/u/94698088?v=4" alt="최혜림" width="150"> |
 | FE | FE | BE | BE |
 | [GitHub](https://github.com/cheonjiyu) | [GitHub](https://github.com/zziwonCHOI) | [GitHub](https://github.com/2-jjong) | [GitHub](https://github.com/hyeriimm) |
 
@@ -58,9 +58,9 @@
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | 천지윤    |  <img src="https://avatars.githubusercontent.com/u/70828192?v=4" alt="천지윤" width="100"> | <ul><li>로그인 개발</li><li>노무사와 채팅 개발</li><li>노무사 리스트</li></ul>     |
-| 최지원   |  <img src="https://avatars.githubusercontent.com/u/128473259?v=4" alt="최지원" width="100">| <ul><li>회원가입 개발</li><li>챗봇 패이지 개발</li><li>마이페이지 개발</li><li>aws 프론트 배포</li></ul> |
-| 이종현   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이종현" width="100">    |<ul></ul>  |
-| 최혜림    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="최혜림" width="100">    | <ul></ul>    |
+| 최지원   |  <img src="https://avatars.githubusercontent.com/u/128473259?v=4" alt="최지원" width="100"> | <ul><li>회원가입 개발</li><li>챗봇 패이지 개발</li><li>마이페이지 개발</li><li>aws 프론트 배포</li></ul> |
+| 이종현   |  <img src="https://avatars.githubusercontent.com/u/127838675?v=4" alt="이종현" width="100"> | <ul></ul> |
+| 최혜림    |  <img src="https://avatars.githubusercontent.com/u/94698088?v=4" alt="최혜림" width="100"> | <ul></ul> |
 
 <br/>
 <br/>
